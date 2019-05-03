@@ -14,7 +14,7 @@ high-speed acquisition system. Used mainly to process strain-gage signals.
 Python script (jupyter notebook) which finds online earthquake datasets from Iris website,
 and generates animations of earthquakes sequences for chosen timespans and regions.
 
--dynamic_fem.m
+-dynamic_fd_intro.m
 
 Matlab script which simulates dynamic inplane ruptures
 
