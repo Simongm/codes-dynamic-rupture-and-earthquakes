@@ -32,7 +32,7 @@ with simple quadrilateral elements, and possibility to introduce a crack in the 
 Python jupyter notebook used for static finite element simulations , and more specifically
 for simulation of isochromatics in polycarbonate plates with different loading configurations.
 
--DGv2_spyder.py
+-DG_version4_(dyn_force).ipynb
 
 Python script under developement, to simulate dynamic rupture by prescribing tractions at split nodes
 along an interface.
